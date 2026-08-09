@@ -57,7 +57,7 @@ Four probability sampling designs were implemented in SAS using `PROC SURVEYSELE
 | 3 | **Stratified Sampling** | Population split into 2 strata by `Q12Gender`; proportionally allocated SRS drawn within each stratum | n = 1,741 |
 | 4 | **Cluster Sampling** | Population split into 9 clusters by `Province`; 2 provinces randomly selected, all children within them surveyed | n = 1,801 (2 clusters) |
 
-Full SAS code is provided in [`code`](code/sampling_analysis.sas).
+Full SAS code is provided in [`code.sas`](code/sampling_analysis.sas).
 
 ## Results
 
@@ -128,7 +128,7 @@ A very high proportion of children (over 96.5%) are estimated to be attending sc
 ```
 .
 ├── README.md                          # This file — full write-up of the study
-├── code                               # SAS code for all four sampling designs
+├── code.sas                               # SAS code for all four sampling designs
 ├── docs/
 │   └── Data_Description.pdf           # Full SAYP 2019 variable documentation
 ├── presentation/
