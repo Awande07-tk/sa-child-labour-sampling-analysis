@@ -148,5 +148,5 @@ A very high proportion of children (over 96.5%) are estimated to be attending sc
 
 ## Author
 
-**Awande** — BSc Honours in Statistics, University of KwaZulu-Natal (Pietermaritzburg)
-Completed as part of the STAT395 sampling methods module.
+**Awande Magwaza** — BSc Honours in Statistics, University of KwaZulu-Natal (Pietermaritzburg)
+Completed as part of a undergraduate project for STAT395 sampling methods module.
