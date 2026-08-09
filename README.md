@@ -128,8 +128,7 @@ A very high proportion of children (over 96.5%) are estimated to be attending sc
 ```
 .
 ├── README.md                          # This file — full write-up of the study
-├── code/
-│   └── sampling_analysis.sas          # SAS code for all four sampling designs
+├── code                               # SAS code for all four sampling designs
 ├── docs/
 │   └── Data_Description.pdf           # Full SAYP 2019 variable documentation
 ├── presentation/
